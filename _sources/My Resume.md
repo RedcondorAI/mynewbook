@@ -2,7 +2,7 @@
 
 ## Contact Information
 - **Name**: Ellawela Jayathilake
-- **Email**: johndoe@email.com
+- **Email**: ellawela@buffalo.edu
 - **Phone**: +1 (123) 456-7890
 - **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
 - **GitHub**: [github.com/RedcondorAI](https://github.com/RedcondorAI)
