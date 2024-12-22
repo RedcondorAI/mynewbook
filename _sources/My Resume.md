@@ -1,7 +1,7 @@
 # My Resume
 
 ## Contact Information
-- **Name**: John Doe
+- **Name**: Ellawela Jayathilake
 - **Email**: johndoe@email.com
 - **Phone**: +1 (123) 456-7890
 - **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
